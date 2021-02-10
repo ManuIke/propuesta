@@ -17,4 +17,4 @@ Objetivo: Proporcionar informacion en varios aspectos de los juegos desarrollado
 
 # Elemento de innovación
 
-Creacion de canales de voz en las que se permite a los usuarios usar estos para hablar directamente con otros usuarios sin necesidad de texto e implementar un boton que comparta noticias o mensajes con Twitter directamente en el perfil del usuario si el desea.
+Creacion de chats de voz en las que se permite a los usuarios usar estos para hablar directamente con otros usuarios sin necesidad de texto e implementar un boton que comparta noticias o mensajes con Twitter directamente en el perfil del usuario si el desea.
