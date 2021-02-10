@@ -343,6 +343,420 @@
 | **Entrega**     | v1             |
 
 
+| **R39**     | **Implementar la base de  datos**         |
+| --------------: | :------------------- |
+| **Descripción** | Crear una base de datos que contenga la información de los usuarios para hacer login y logout, los juegos creados  y también los comentarios de los foros con sus propiedades necesarias.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Información                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R40**     | **Añadir usuarios**         |
+| --------------: | :------------------- |
+| **Descripción** | Tener la capacidad de crear y añadir usuarios para que tengan su propio perfil y poder usar los foros.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R41**     | **Modificar usuarios**         |
+| --------------: | :------------------- |
+| **Descripción** | Darle al usuario la capacidad de modificar su perfil para cambiar cierta información.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R42**     | **Eliminar usuarios**         |
+| --------------: | :------------------- |
+| **Descripción** | Tener la capacidad de eliminar usuarios o de que el usuario borre su cuenta en caso de así quererlo.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R43**     | **Añadir juegos**         |
+| --------------: | :------------------- |
+| **Descripción** | Añadir juegos a la base de datos con su información apropiada.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R44**     | **Modificar juegos**         |
+| --------------: | :------------------- |
+| **Descripción** | Modificar la información de los juegos como sea conveniente.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R45**     | **Hacer un comentario**         |
+| --------------: | :------------------- |
+| **Descripción** | Crear un comentario en los foros y guardarlo para poder verlos.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R46**     | **Borrar un comentario**         |
+| --------------: | :------------------- |
+| **Descripción** | Borrar comentarios que se vean necesarios.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R47**     | **Editar un comentario**         |
+| --------------: | :------------------- |
+| **Descripción** | Dar la posibilidad de borrar un comentario en los primeros minutos de publicación.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R48**     | **Buscar un comentario**         |
+| --------------: | :------------------- |
+| **Descripción** | Permitir buscar el contenido de un comentario que se desee.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R49**     | **Crear un tema**         |
+| --------------: | :------------------- |
+| **Descripción** | Creación de un tema en el foro en el que poder empezar un tema que comentar.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R50**     | **Cerrar un tema**         |
+| --------------: | :------------------- |
+| **Descripción** | Permitir cerrar temas que ya no necesiten de mas comentarios o que sean irrelevantes.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R51**     | **Logearse**         |
+| --------------: | :------------------- |
+| **Descripción** | Permitir a los usuarios logearse con su nombre y contraseña.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R52**     | **Deslogearse**         |
+| --------------: | :------------------- |
+| **Descripción** | Permitir a los usuarios deslogearse.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R53**     | **Verificar registro por correo**         |
+| --------------: | :------------------- |
+| **Descripción** | Verificar la creación del usuario con un correo automático.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v1             |
+
+
+| **R54**     | **Implementar un chat publico**         |
+| --------------: | :------------------- |
+| **Descripción** | Permitir a los usuarios hablar en las salas publicas de chat.             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v3             |
+
+
+| **R55**     | **Implementar un chat privado**         |
+| --------------: | :------------------- |
+| **Descripción** | Permitir a los usuarios crear chats privados entre ellos para que solo puedan tener ellos una conversación.             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v3             |
+
+
+| **R56**     | **Implementar un chat de voz**         |
+| --------------: | :------------------- |
+| **Descripción** | Permitir a los usuarios unirse a chats de voz que servirán para la comunicación mas allá de texto.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Técnico                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v3             |
+
+
+| **R57**     | **Botón de compartir noticia**         |
+| --------------: | :------------------- |
+| **Descripción** | Implementar un botón que permita al usuario compartir una noticia en Twitter de forma automática.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R58**     | **Crear pagina de la wiki**         |
+| --------------: | :------------------- |
+| **Descripción** | Permitir a los usuarios con los roles adecuados crear una pagina especifica en la wiki que detalle información sobre los elementos de un juego.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R59**     | **Modificar pagina de la wiki**         |
+| --------------: | :------------------- |
+| **Descripción** | Permitir a los usuarios con los roles adecuados hacer modificaciones y actualizar las paginas existentes y su información.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R60**     | **Borrar pagina de la wiki**         |
+| --------------: | :------------------- |
+| **Descripción** | Permitir a los usuarios con los roles adecuados borrar paginas de la wiki que ya no sean necesarias.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
+| **R61**     | **Implementar un sistema de roles**         |
+| --------------: | :------------------- |
+| **Descripción** | Tener un sistema de roles que ayude a que ciertos usuarios tengan ciertas capacidades sobre la pagina que un usuario normal no tendría.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R62**     | **Banear usuarios**         |
+| --------------: | :------------------- |
+| **Descripción** | Permitir a los usuarios administradores banear a un usuario que este rompiendo las reglas del foro, haciéndole perder su acceso temporal o permanentemente.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R63**     | **Crear noticias **         |
+| --------------: | :------------------- |
+| **Descripción** | Permitir a los administradores crear noticias nuevas en la pagina principal             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R64**     | **Buscar noticias**         |
+| --------------: | :------------------- |
+| **Descripción** | Buscar una noticia antigua en base a distintos parámetros como fecha o algún contenido que tenga la noticia o su titulo             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R65**     | **Desbanear usuario**         |
+| --------------: | :------------------- |
+| **Descripción** | Desbanear usuarios que se crea que ha sido baneado de forma injusta o demasiado severa             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R67**     | **Crear categorias de pagina**         |
+| --------------: | :------------------- |
+| **Descripción** | Permitir la creación de categorías que agrupen las paginas de la wiki para una mayor eficiencia de búsqueda             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
+| **R68**     | **Borrar categorias de  pagina**         |
+| --------------: | :------------------- |
+| **Descripción** | Permitir el quitarle una categoría a una pagina que se haya introducido por error o ya no sea relevante             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
+| **R69**     | **Busqueda de paginas de la wiki**         |
+| --------------: | :------------------- |
+| **Descripción** | Hacer posible que las paginas de la wiki sea buscado mediante un contenido de texto que posean             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
+| **R70**     | **Busqueda de las paginas mediante categoria**         |
+| --------------: | :------------------- |
+| **Descripción** | Hacer posible que se busque una categoría y esto enseñe todas las paginas aplicables             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
+| **R71**     | **Crear roles**         |
+| --------------: | :------------------- |
+| **Descripción** | Crear los roles necesarios desde la pagina             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v3             |
+
+
+| **R72**     | **Modificar roles**         |
+| --------------: | :------------------- |
+| **Descripción** | Modificar los roles a medida que se vea necesario             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v3             |
+
+
+| **R73**     | **Añadir roles a usuarios**         |
+| --------------: | :------------------- |
+| **Descripción** | Permitir una forma fácil de asignarle los roles a un usuario por un administrador             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
+| **R74**     | **Borrar roles**         |
+| --------------: | :------------------- |
+| **Descripción** | Borrar roles que se vean innecesarios             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
+| **R75**     | **Quitar roles a usuarios**         |
+| --------------: | :------------------- |
+| **Descripción** | Quitar los roles a los usuarios por administradores             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R76**     | ** **         |
+| --------------: | :------------------- |
+| **Descripción** |               |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v3             |
+
+
+| **R77**     | ** **         |
+| --------------: | :------------------- |
+| **Descripción** |               |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v3             |
+
+
+| **R78**     | ** **         |
+| --------------: | :------------------- |
+| **Descripción** |               |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v3             |
+
+
+| **R79**     | ** **         |
+| --------------: | :------------------- |
+| **Descripción** |               |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v3             |
+
+
+| **R80**     | ** **         |
+| --------------: | :------------------- |
+| **Descripción** |               |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v3             |
+
+
+| **R81**     | ** **         |
+| --------------: | :------------------- |
+| **Descripción** |               |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v3             |
+
+
+| **R82**     | ** **         |
+| --------------: | :------------------- |
+| **Descripción** |               |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v3             |
+
+
+| **R83**     | ** **         |
+| --------------: | :------------------- |
+| **Descripción** |               |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v3             |
+
+
+| **R84**     | ** **         |
+| --------------: | :------------------- |
+| **Descripción** |               |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v3             |
+
+
+| **R85**     | ** **         |
+| --------------: | :------------------- |
+| **Descripción** |               |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v3             |
+
+
 
 ## Cuadro resumen
 
@@ -386,3 +800,49 @@
 | (**R36**) Varios navegadores | Mínimo | Técnico | Fácil | v1 | 
 | (**R37**) Despliegue en un Host | Mínimo | Técnico | Fácil | v1 | 
 | (**R38**) Despliegue en un servidor local | Mínimo | Técnico | Fácil | v1 | 
+| (**R39**) Implementar la base de  datos | Importante | Información | Fácil | v1 | 
+| (**R40**) Añadir usuarios | Importante | Funcional | Fácil | v1 | 
+| (**R41**) Modificar usuarios | Importante | Funcional | Fácil | v1 | 
+| (**R42**) Eliminar usuarios | Importante | Funcional | Fácil | v1 | 
+| (**R43**) Añadir juegos | Importante | Funcional | Fácil | v1 | 
+| (**R44**) Modificar juegos | Importante | Funcional | Fácil | v1 | 
+| (**R45**) Hacer un comentario | Importante | Funcional | Fácil | v1 | 
+| (**R46**) Borrar un comentario | Importante | Funcional | Fácil | v1 | 
+| (**R47**) Editar un comentario | Importante | Funcional | Fácil | v1 | 
+| (**R48**) Buscar un comentario | Importante | Funcional | Fácil | v1 | 
+| (**R49**) Crear un tema | Importante | Funcional | Fácil | v1 | 
+| (**R50**) Cerrar un tema | Importante | Funcional | Fácil | v1 | 
+| (**R51**) Logearse | Importante | Funcional | Fácil | v1 | 
+| (**R52**) Deslogearse | Importante | Funcional | Fácil | v1 | 
+| (**R53**) Verificar registro por correo | Importante | Funcional | Media | v1 | 
+| (**R54**) Implementar un chat publico | Opcional | Funcional | Difícil | v3 | 
+| (**R55**) Implementar un chat privado | Opcional | Funcional | Difícil | v3 | 
+| (**R56**) Implementar un chat de voz | Importante | Técnico | Difícil | v3 | 
+| (**R57**) Botón de compartir noticia | Importante | Funcional | Fácil | v1 | 
+| (**R58**) Crear pagina de la wiki | Importante | Funcional | Media | v2 | 
+| (**R59**) Modificar pagina de la wiki | Importante | Funcional | Media | v2 | 
+| (**R60**) Borrar pagina de la wiki | Importante | Funcional | Fácil | v2 | 
+| (**R61**) Implementar un sistema de roles | Importante | Funcional | Fácil | v1 | 
+| (**R62**) Banear usuarios | Importante | Funcional | Fácil | v1 | 
+| (**R63**) Crear noticias  | Importante | Funcional | Fácil | v1 | 
+| (**R64**) Buscar noticias | Importante | Funcional | Fácil | v1 | 
+| (**R65**) Desbanear usuario | Importante | Funcional | Fácil | v1 | 
+| (**R67**) Crear categorias de pagina | Importante | Funcional | Fácil | v2 | 
+| (**R68**) Borrar categorias de  pagina | Importante | Funcional | Fácil | v2 | 
+| (**R69**) Busqueda de paginas de la wiki | Importante | Funcional | Fácil | v2 | 
+| (**R70**) Busqueda de las paginas mediante categoria | Importante | Funcional | Fácil | v2 | 
+| (**R71**) Crear roles | Opcional | Funcional | Media | v3 | 
+| (**R72**) Modificar roles | Opcional | Funcional | Media | v3 | 
+| (**R73**) Añadir roles a usuarios | Importante | Funcional | Fácil | v2 | 
+| (**R74**) Borrar roles | Opcional | Funcional | Fácil | v2 | 
+| (**R75**) Quitar roles a usuarios | Opcional | Funcional | Media | v2 | 
+| (**R76**)   | Opcional | Funcional | Fácil | v3 | 
+| (**R77**)   | Opcional | Funcional | Fácil | v3 | 
+| (**R78**)   | Opcional | Funcional | Fácil | v3 | 
+| (**R79**)   | Opcional | Funcional | Fácil | v3 | 
+| (**R80**)   | Opcional | Funcional | Fácil | v3 | 
+| (**R81**)   | Opcional | Funcional | Fácil | v3 | 
+| (**R82**)   | Opcional | Funcional | Fácil | v3 | 
+| (**R83**)   | Opcional | Funcional | Fácil | v3 | 
+| (**R84**)   | Opcional | Funcional | Fácil | v3 | 
+| (**R85**)   | Opcional | Funcional | Fácil | v3 | 
